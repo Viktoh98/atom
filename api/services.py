@@ -3,7 +3,7 @@ import requests
 
 #Store in .env in production
 API_HOST = "trustpilot-company-and-reviews-data.p.rapidapi.com"
-API_KEY =  "0f53fba71amshc1e707360665992p1b110ajsnc8e8801390d7"
+API_KEY =  "5a82044005mshdb8a19bd8d2b38ep1f2bb4jsn3949426ac5b8"
 
 HEADERS = {
     "x-rapidapi-host": API_HOST,

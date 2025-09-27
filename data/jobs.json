@@ -1,14 +1,10 @@
 [
   {
-    "time": "2025-09-27T14:28:13.709508+00:00",
-    "message": "Added www.bestbuy.com to tracking list"
+    "time": "2025-09-27T17:06:45.038265+00:00",
+    "message": "Scheduler started (in-memory): fetch_reviews every 5 minutes."
   },
   {
-    "time": "2025-09-27T14:28:25.407484+00:00",
-    "message": "Added gossby.com to tracking list"
-  },
-  {
-    "time": "2025-09-27T14:33:31.181574+00:00",
-    "message": "Removed www.bestbuy.com from tracking list"
+    "time": "2025-09-27T17:06:50.061004+00:00",
+    "message": "Performing initial sync for gossby.com"
   }
 ]
